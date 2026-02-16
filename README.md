@@ -12,7 +12,7 @@ C言語で作成された、標準入出力を用いたシンプルな電卓プ�
 ### 1. コンパイル
 ターミナルで以下のコマンドを実行してコンパイルします。
 ```bash
-gcc calculator.c -o calculator.exe
+gcc calculator.c -o calculator.execd
 ```
 
 ### 2. 実行
@@ -25,3 +25,5 @@ gcc calculator.c -o calculator.exe
 1. 1つ目の数字を入力し、Enterを押します。
 2. 演算子（`+`, `-`, `*`, `/`）を入力し、Enterを押します。
 3. 2つ目の数字を入力し、Enterを押します。
+
+![calculator.png](Image/calculator.png)
