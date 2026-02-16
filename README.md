@@ -26,4 +26,4 @@ gcc calculator.c -o calculator.execd
 2. 演算子（`+`, `-`, `*`, `/`）を入力し、Enterを押します。
 3. 2つ目の数字を入力し、Enterを押します。
 
-![calculator.png](./Image/calculator.png)
+![calculator.png](Image\Calculator.png)
